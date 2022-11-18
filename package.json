@@ -1,0 +1,9 @@
+{
+  "name": "cbv5",
+  "description": "API tests for CBV5 prject",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuliia Kochergina",
+  "license": "ISC"
+}
